@@ -1,0 +1,14 @@
+layout_spectrum: 0.49850338511168957
+typography_spectrum: 0.788030166644603
+color:
+  brandStrength: 0.22613323805853724
+  lightness: 0.16031185910105705
+  saturation: 0.43056151387281716
+  rhythmicContrast: 0.991336950333789
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: megaprint
