@@ -1,4 +1,3 @@
-layout_spectrum: 0.49850338511168957
 typography_spectrum: 0.788030166644603
 color:
   brandStrength: 0.22613323805853724
@@ -6,9 +5,11 @@ color:
   saturation: 0.43056151387281716
   rhythmicContrast: 0.991336950333789
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-name: megaprint
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.49850338511168957
+name: Megaprint
+title: Imagination. Now printable!
